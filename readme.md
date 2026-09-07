@@ -57,6 +57,7 @@ See the [GitHub Pages documentation](https://pages.github.com/).
 
 ## 6. Collaborate with a Pull Request
 
+A pull request lets someone propose changes to a project without changing the main version right away.
 Open **Settings → Collaborators** and invite another GitHub user. After they accept, ask them to create a branch, make a small change, commit it, and open a **pull request**.
 
 Review the pull request, **approve** it, and **merge** it into `main`. Then use **Fetch origin** or **Pull origin** in GitHub Desktop to update your local copy.
